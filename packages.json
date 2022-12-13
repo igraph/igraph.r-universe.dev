@@ -1,0 +1,7 @@
+[
+  {
+    "package": "igraph",
+    "url": "https://github.com/igraph/rigraph",
+    "branch" : "master"
+  }
+]
