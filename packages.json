@@ -3,5 +3,9 @@
     "package": "igraph",
     "url": "https://github.com/igraph/rigraph",
     "branch" : "master"
+  },
+  {
+    "package": "igraphdata",
+    "url": "https://github.com/igraph/igraphdata"
   }
 ]
